@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>Wujood Card</title>
+
+  <!-- Wujood fonts: self-hosted + non-render-blocking -->
+  <link rel="preload" href="/engine/v1/assets/fonts/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/engine/v1/assets/fonts/fonts.css"></noscript>
+
+  <!-- Small shared base; keep this file compact and cacheable -->
+  <link rel="stylesheet" href="/engine/v1/styles/wujood-base.css">
+</head>
+<body>
+  <main>
+    <!-- Card content/layout only. Do not reimplement Engine behaviors here. -->
+
+    <!-- Icon example -->
+    <svg class="wj-icon" aria-hidden="true"><use href="/engine/v1/assets/icons/icons.svg#phone"></use></svg>
+
+    <!-- Gallery example: AVIF + lazy; Engine owns interaction/viewer -->
+    <img src="/img/img/ph1.avif" alt="" width="640" height="480" loading="lazy" decoding="async" data-wj-behavior="gallery" data-wj-gallery="portfolio" data-wj-src="/img/img/ph1.avif">
+  </main>
+
+  <!-- Use the canonical Wujood Engine entry point used by production deployment. -->
+  <script type="module">
+    import { createWujood } from '/engine/v1/index.js';
+    createWujood({ autoInit: true });
+  </script>
+</body>
+</html>
