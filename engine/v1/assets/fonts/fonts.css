@@ -1,0 +1,8 @@
+/* Wujood Fonts v1 — canonical self-hosted font registry */
+@font-face{font-family:"Cairo";src:url("./cairo-v31-arabic_latin-regular.woff2") format("woff2");font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:"Cairo";src:url("./cairo-v31-arabic_latin-500.woff2") format("woff2");font-style:normal;font-weight:500;font-display:swap}
+@font-face{font-family:"Cairo";src:url("./cairo-v31-arabic_latin-600.woff2") format("woff2");font-style:normal;font-weight:600;font-display:swap}
+@font-face{font-family:"Cairo";src:url("./cairo-v31-arabic_latin-700.woff2") format("woff2");font-style:normal;font-weight:700;font-display:swap}
+@font-face{font-family:"Cairo";src:url("./cairo-v31-arabic_latin-800.woff2") format("woff2");font-style:normal;font-weight:800;font-display:swap}
+@font-face{font-family:"Cairo";src:url("./cairo-v31-arabic_latin-900.woff2") format("woff2");font-style:normal;font-weight:900;font-display:swap}
+@font-face{font-family:"Space Grotesk";src:url("./SpaceGrotesk-VariableFont_wght.ttf") format("truetype");font-style:normal;font-weight:300 700;font-display:swap}
