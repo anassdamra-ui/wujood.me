@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="phone" viewBox="0 0 24 24"><path d="M6 2l4 5-2 2c1 3 4 6 7 7l2-2 5 4-2 4C10 22 2 14 2 4l4-2"/></symbol>
+  <symbol id="email" viewBox="0 0 24 24"><path d="M2 5h20v14H2V5m2 2l8 6 8-6"/></symbol>
+  <symbol id="globe" viewBox="0 0 24 24"><path d="M12 2a10 10 0 100 20 10 10 0 000-20m0 0c3 3 3 17 0 20m0-20c-3 3-3 17 0 20M3 12h18"/></symbol>
+  <symbol id="vcard" viewBox="0 0 24 24"><path d="M2 5h20v14H2V5m4 4a2 2 0 110 4 2 2 0 010-4m-2 7c1-3 5-3 6 0m4-6h6m-6 4h6"/></symbol>
+  <symbol id="share" viewBox="0 0 24 24"><path d="M18 3a3 3 0 100 6 3 3 0 000-6M6 9a3 3 0 100 6 3 3 0 000-6m12 6a3 3 0 100 6 3 3 0 000-6M8.5 10.5l7-4m-7 7l7 4"/></symbol>
+  <symbol id="image" viewBox="0 0 24 24"><path d="M3 4h18v16H3V4m2 13l5-5 3 3 3-4 3 6M8 8h.01"/></symbol>
+  <symbol id="camera" viewBox="0 0 24 24"><path d="M3 6h4l2-2h6l2 2h4v14H3V6m9 3a4 4 0 100 8 4 4 0 000-8"/></symbol>
+  <symbol id="whatsapp" viewBox="0 0 24 24"><path d="M12 2a10 10 0 00-8.6 15.1L2 22l5-1.3A10 10 0 1012 2m-3 5c1 5 3 7 8 9"/></symbol>
+  <symbol id="instagram" viewBox="0 0 24 24"><path d="M7 2h10a5 5 0 015 5v10a5 5 0 01-5 5H7a5 5 0 01-5-5V7a5 5 0 015-5m5 5a5 5 0 100 10 5 5 0 000-10m6-1h.01"/></symbol>
+  <symbol id="facebook" viewBox="0 0 24 24"><path d="M14 22v-9h3l1-4h-4V7c0-1 1-1 2-1h2V2h-3c-4 0-6 2-6 6v1H6v4h3v9"/></symbol>
+  <symbol id="x" viewBox="0 0 24 24"><path d="M4 3l16 18M20 3L4 21"/></symbol>
+  <symbol id="linkedin" viewBox="0 0 24 24"><path d="M4 9v13M4 4v.01M9 22V9m0 6c0-4 7-5 7 0v7"/></symbol>
+  <symbol id="location" viewBox="0 0 24 24"><path d="M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1116 0m-8-3a3 3 0 100 6 3 3 0 000-6"/></symbol>
+  <symbol id="download" viewBox="0 0 24 24"><path d="M12 3v12m-5-5l5 5 5-5M4 19h16"/></symbol>
+</svg>
