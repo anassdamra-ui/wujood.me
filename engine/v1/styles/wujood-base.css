@@ -1,0 +1,12 @@
+/* Wujood Base v1 — shared, performance-safe primitives */
+:root{
+  --wj-font-ar:"Cairo",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --wj-font-en:"Space Grotesk",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --wj-font-ui:var(--wj-font-ar);
+}
+html[lang="ar"],html[dir="rtl"]{--wj-font-ui:var(--wj-font-ar)}
+html[lang="en"],html[dir="ltr"]{--wj-font-ui:var(--wj-font-en)}
+body{font-family:var(--wj-font-ui);text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
+.wj-icon{width:1em;height:1em;display:inline-block;vertical-align:-.125em;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:0 0 auto}
+img{max-width:100%;height:auto}
+[hidden]{display:none!important}
